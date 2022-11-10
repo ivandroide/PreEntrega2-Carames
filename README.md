@@ -1,4 +1,4 @@
-# PreEntrega2-Carames-
+# PreEntrega2-Carames
 
 Juego: ahorcado
 
