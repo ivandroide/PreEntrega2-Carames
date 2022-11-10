@@ -1,0 +1,13 @@
+.body {
+
+    font-family: Arial
+}
+
+
+.f1 {
+
+    font-weight: bold;
+    text-decoration: underline;
+    display: inline;            /* Propiedad para evitar que cierre de etiqueta provoque salto de línea */
+
+}
