@@ -55,7 +55,7 @@ function getIndicesOf(searchStr, str) {
 
         while ((x = str.indexOf(searchStr, startIndex)) > -1) {
 
-            // Si letra se encuentra contenida en string, se 'descubre' dentro del array de progreso, añadiendo entrada.        
+            // Si letra se encuentra contenida en string, se 'descubre' dentro del objeto de progreso, añadiendo entrada.        
             indices.push(x);
             startIndex = x + searchStr.length;
 
